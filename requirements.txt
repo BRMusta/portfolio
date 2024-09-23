@@ -1,3 +1,4 @@
 taipy
+streamlit
 numpy
 pandas

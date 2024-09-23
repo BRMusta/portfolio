@@ -1,0 +1,40 @@
+{
+  "sections": {
+    "portfolio": {"label": "💼 Portfolio"},
+    "other": {"label": "✨ Other"}
+  },
+  "pages": {
+    "home": {
+      "title": "Home",
+      "path": "pages/00_home.py",
+      "icon": "🏠",
+      "default": true,
+      "position": "sidebar",
+      "section_id": "portfolio"
+    },
+    "projects_samples": {
+      "title": "Projects Samples",
+      "path": "pages/01_projects_samples.py",
+      "icon": "📊",
+      "url_path": "projects_samples",
+      "position": "sidebar",
+      "section_id": "portfolio"
+    },
+    "contact": {
+      "title": "Contact",
+      "path": "pages/02_contact.py",
+      "icon": "💬",
+      "url_path": "contact",
+      "position": "sidebar",
+      "section_id": "portfolio"
+    },
+    "hydraulic_engineering": {
+      "title": "Hydraulic Engineering",
+      "path": "pages/03_hydraulic_engineering.py",
+      "icon": "💧",
+      "url_path": "hydraulic_engineering",
+      "position": "hidden",
+      "section_id": "other"
+    }
+  }
+}

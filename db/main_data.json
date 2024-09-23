@@ -1,0 +1,38 @@
+{
+  "main_data_services": {
+    "label": "MAIN DATA SERVICES",
+    "content": {
+      "structuring": {
+        "label": "Structuring",
+        "image": "medias/images/structuring.jpeg",
+        "content": [
+          "Struggling with unorganized data that is difficult to interpret can be a significant barrier to making informed decisions. A comprehensive data structuring service is available to streamline data storage and analysis processes, providing easy access and a clear understanding of your data. With extensive experience in engineering and proficiency in various technical fields, this service offers tailored solutions to meet specific data management needs. Whether for a small business owner, researcher, or any individual requiring effective data management, this service is designed to help unlock the full potential of your data. For those looking to enhance their data analysis capabilities, professional assistance is available to elevate data management strategies to the next level."
+        ]
+      },
+      "analyzing": {
+        "label": "Analyzing",
+        "image": "medias/images/analyzing.jpeg",
+        "content": [
+          "Making data-driven decisions is essential for optimizing business operations, yet interpreting complex data can be challenging. A comprehensive data analysis service is available to help uncover valuable insights from data, enabling more informed decision-making. With extensive experience in engineering and expertise in various technical fields, this service provides tailored analysis solutions to meet specific needs. Whether analyzing customer data to enhance marketing strategies or identifying trends in financial data for business optimization, these services are designed to help achieve strategic goals. For those seeking to improve decision-making through effective data analysis, professional assistance is available to elevate business performance to the next level. Contact today to learn more about the benefits of this data analysis service."
+        ]
+      },
+      "visualizing": {
+        "label": "Visualizing",
+        "image": "medias/images/visualizing.jpeg",
+        "content": [
+          "Effectively understanding and communicating data insights is crucial for any organization, yet this can often be challenging. A specialized data visualization service is available to transform complex data sets into clear, visually compelling formats that are easy to interpret. With extensive experience in engineering and proficiency in various technical fields, this service offers customized visualization solutions tailored to convey messages clearly and effectively. Whether the need is for interactive dashboards, infographics, or other data visualizations, these services are designed to help present data in a way that engages and resonates with the intended audience. To maximize the value of data through impactful visual storytelling, professional support is available to enhance data presentation strategies. Contact today to explore how this data visualization service can unlock the full potential of your data."
+        ]
+      }
+    }
+  },
+  "about_me": {
+    "label": "About Me",
+    "image": "medias/images/BRMusta_Build.png",
+    "content": [
+      "**@BRMusta**, I am PhD in Hydraulics and Freelance Data Analysis Consultant. I am passionate about data science and believe in the power of data-driven decision-making. My expertise lies in structuring, analyzing, and visualizing data to enhance business operations and drive informed decisions. I have good skills in various technical fields, including engineering, data analysis, and data visualization, and I am committed to providing personalized solutions to meet your specific data management needs.",
+      "Contact me to learn more about my services and how I can help you achieve your goals.",
+      "*I am available for short-term projects and part-time work on longer-term engagements.*",
+      "***Main Skill: < Data_Science: ★★★★☆ > ; < Python: ★★★★☆ > ; < Google_Workspace: ★★★★☆ > ; < QGIS: ★★★★☆ > ; < SQL: ★★★☆☆ >***"
+    ]
+  }
+}
